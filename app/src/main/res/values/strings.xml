@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BluetoothTimer</string>
+    <string name="disable">Disable</string>
+    <string name="bluetooth_timer">Bluetooth Timer</string>
+    <string name="enable">Enabled</string>
+    <string name="save">Save</string>
+
+    <string-array name="timer_time">
+        <item>Select Timer</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>2 Minutes</item>
+        <item>3 Minutes</item>
+        <item>4 Minutes</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>25 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+    </string-array>
+
+</resources>
